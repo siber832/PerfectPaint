@@ -22,7 +22,7 @@ namespace PerfectPaint
         {
            
             Figura f;
-            Console.WriteLine("¿Que quieres dibujar?\n 1 Circulo \n !1 Cuadrado");
+            Console.WriteLine("Seleccione la opcion que desea \n 1 Circulo \n !1 Cuadrado");
             var numeroInsertado = Console.ReadLine();
             
             if(numeroInsertado.Equals("1"))
