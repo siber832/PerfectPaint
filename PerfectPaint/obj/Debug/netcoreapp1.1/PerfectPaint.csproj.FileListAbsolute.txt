@@ -1,0 +1,18 @@
+c:\users\jorge\documents\visual studio 2017\Projects\PerfectPaint\PerfectPaint\bin\Debug\netcoreapp1.1\PerfectPaint.deps.json
+c:\users\jorge\documents\visual studio 2017\Projects\PerfectPaint\PerfectPaint\bin\Debug\netcoreapp1.1\PerfectPaint.runtimeconfig.json
+c:\users\jorge\documents\visual studio 2017\Projects\PerfectPaint\PerfectPaint\bin\Debug\netcoreapp1.1\PerfectPaint.runtimeconfig.dev.json
+c:\users\jorge\documents\visual studio 2017\Projects\PerfectPaint\PerfectPaint\bin\Debug\netcoreapp1.1\PerfectPaint.dll
+c:\users\jorge\documents\visual studio 2017\Projects\PerfectPaint\PerfectPaint\bin\Debug\netcoreapp1.1\PerfectPaint.pdb
+c:\users\jorge\documents\visual studio 2017\Projects\PerfectPaint\PerfectPaint\obj\Debug\netcoreapp1.1\PerfectPaint.csprojResolveAssemblyReference.cache
+c:\users\jorge\documents\visual studio 2017\Projects\PerfectPaint\PerfectPaint\obj\Debug\netcoreapp1.1\PerfectPaint.AssemblyInfo.cs
+c:\users\jorge\documents\visual studio 2017\Projects\PerfectPaint\PerfectPaint\obj\Debug\netcoreapp1.1\PerfectPaint.dll
+c:\users\jorge\documents\visual studio 2017\Projects\PerfectPaint\PerfectPaint\obj\Debug\netcoreapp1.1\PerfectPaint.pdb
+C:\Users\danie\Desktop\proyecto\PerfectPaint\bin\Debug\netcoreapp1.1\PerfectPaint.deps.json
+C:\Users\danie\Desktop\proyecto\PerfectPaint\bin\Debug\netcoreapp1.1\PerfectPaint.runtimeconfig.json
+C:\Users\danie\Desktop\proyecto\PerfectPaint\bin\Debug\netcoreapp1.1\PerfectPaint.runtimeconfig.dev.json
+C:\Users\danie\Desktop\proyecto\PerfectPaint\bin\Debug\netcoreapp1.1\PerfectPaint.dll
+C:\Users\danie\Desktop\proyecto\PerfectPaint\bin\Debug\netcoreapp1.1\PerfectPaint.pdb
+C:\Users\danie\Desktop\proyecto\PerfectPaint\obj\Debug\netcoreapp1.1\PerfectPaint.csprojResolveAssemblyReference.cache
+C:\Users\danie\Desktop\proyecto\PerfectPaint\obj\Debug\netcoreapp1.1\PerfectPaint.AssemblyInfo.cs
+C:\Users\danie\Desktop\proyecto\PerfectPaint\obj\Debug\netcoreapp1.1\PerfectPaint.dll
+C:\Users\danie\Desktop\proyecto\PerfectPaint\obj\Debug\netcoreapp1.1\PerfectPaint.pdb

@@ -1,0 +1,28 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "C:\\Users\\danie\\Desktop\\proyecto\\PerfectPaint\\PerfectPaint.csproj",
+    "projectName": "PerfectPaint",
+    "projectPath": "C:\\Users\\danie\\Desktop\\proyecto\\PerfectPaint\\PerfectPaint.csproj",
+    "outputPath": "C:\\Users\\danie\\Desktop\\proyecto\\PerfectPaint\\obj\\",
+    "projectStyle": "PackageReference",
+    "originalTargetFrameworks": [
+      "netcoreapp1.1"
+    ],
+    "frameworks": {
+      "netcoreapp1.1": {
+        "projectReferences": {}
+      }
+    }
+  },
+  "frameworks": {
+    "netcoreapp1.1": {
+      "dependencies": {
+        "Microsoft.NETCore.App": {
+          "target": "Package",
+          "version": "1.1.2"
+        }
+      }
+    }
+  }
+}
